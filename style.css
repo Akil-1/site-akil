@@ -1,0 +1,36 @@
+@charset "UTF-8"
+
+:root {
+  --color: #034159;
+}
+
+* {
+  font-fanily: Arial, Helveica, sans-serif;
+}
+
+body {
+  background-image: linear-gradient(to right, #F1D8C9, #025951);
+}
+
+main {
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 10px 10px 10px black;
+  width: 1000px;
+  padding: 10px;
+  margin: auto;
+}
+
+p {
+  text-align: justify;
+  color: #034159;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #034159;
+  text-shadow: 1px 1px 0 #02735E;
+}
+
+li {
+  color: #034159;
+}
